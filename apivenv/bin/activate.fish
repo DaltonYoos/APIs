@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/owendecicco/Desktop/AdvPythFall2022/api/apivenv"
+set -gx VIRTUAL_ENV "/Users/dalton/Documents/API/apivenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
